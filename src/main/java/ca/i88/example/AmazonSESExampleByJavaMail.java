@@ -74,7 +74,7 @@ public class AmazonSESExampleByJavaMail {
             System.out.println("Email sent!");
         } catch (Exception ex) {
             System.out.println("The email was not sent.");
-            System.out.println("Error message: " + ex.getMessage());
+            System.out.printf("Error message: %s %n", ex.getMessage());
         } finally {
             // Close and terminate the connection.
             transport.close();
