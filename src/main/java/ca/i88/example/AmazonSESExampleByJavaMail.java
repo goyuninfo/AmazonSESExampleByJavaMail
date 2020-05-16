@@ -1,4 +1,4 @@
-package ca.i88.example;
+package info.goyun.example;
 
 import java.util.Properties;
 import javax.mail.Message;
@@ -9,8 +9,8 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 /**
- * @author i88.ca
- * @link http://i88.ca
+ * @author goyun.info
+ * @link https://goyun.info
  */
 public class AmazonSESExampleByJavaMail {
 
