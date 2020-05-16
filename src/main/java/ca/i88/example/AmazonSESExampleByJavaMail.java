@@ -14,8 +14,8 @@ import javax.mail.internet.MimeMessage;
  */
 public class AmazonSESExampleByJavaMail {
 
-    static final String FROM = "noreply@i88.ca";   // Replace with your "From" address. This address must be verified.
-    static final String TO = "noreply@i88.ca";  // Replace with a "To" address. If you have not yet requested
+    static final String FROM = "noreply@GoYun.Info";   // Replace with your "From" address. This address must be verified.
+    static final String TO = "noreply@GoYun.Info";  // Replace with a "To" address. If you have not yet requested
     // production access, this address must be verified.
 
     static final String BODY = "This email was sent through the Amazon SES SMTP interface by http://i88.ca.";
