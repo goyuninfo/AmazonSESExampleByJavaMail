@@ -18,7 +18,7 @@ public class AmazonSESExampleByJavaMail {
     static final String TO = "noreply@GoYun.Info";  // Replace with a "To" address. If you have not yet requested
     // production access, this address must be verified.
 
-    static final String BODY = "This email was sent through the Amazon SES SMTP interface by http://i88.ca.";
+    static final String BODY = "This email was sent through the Amazon SES SMTP interface by https://goyun.info";
     static final String SUBJECT = "Amazon SES test (SMTP interface accessed using Java)";
 
     // Supply your SMTP credentials below. Note that your SMTP credentials are different from your AWS credentials.
